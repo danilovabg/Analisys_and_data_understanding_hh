@@ -1,20 +1,21 @@
 # <center> Проект: Анализ вакансий из HeadHunter
 
 
-## <span style="color: salmon;">Оглавление  
+## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
+[2. Постановка задачи ](.README.md#Постановка-задачи)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
+[5. Результат](.README.md##Результат)    
 
 
-### <span style="color: salmon;">Описание проекта  
+### Описание проекта  
 Выгрузка данных (из базы SQL компании) для детального изучения с целью последующего построения модели Машинного Обучения для рекомендаций вакансий соискателям претендующим на позицию Data Scientist.
-:arrow_up:[ к оглавлению](_) 
+    
+:arrow_up:[к оглавлению](_) 
 
 
-### <span style="color: salmon;"> Постановка задачи   
+### Постановка задачи   
 
 Произвести анализ данных - Data Understanding
 
@@ -24,37 +25,39 @@
 В данном проекте получены сведения о виде данных, их расположнеии, структуре, содержании, а так же обнаружены "слабые места" 
 требующие дальнейшей работы. 
 
-:arrow_up:[ к оглавлению](_) 
+:arrow_up:[к оглавлению](_) 
 ### <span style="color: salmon;"> Краткая информация о данных
 База представляет собой Реляционную Базу данных PostgreSQL, состоящию из 5 таблиц: Вакансии, Регионы, Работодатели, Сферы деятельности работодателей, Отрасли
 
 
 <center>**Общий вид базы** </center>
-![][/pictures/SQL_pj2_2_1.png]
+    
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/SQL_pj2_2_1.png)
 
 <center>  **Отдельные таблицы** </center>
+    
 <span style="color: green;">ВАКАНСИИ (VACANCIES)</span>
 
-![][/pictures/vacancies.png]
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/vacancies.png)
 
 <span style="color: green;"> РЕГИОНЫ (AREAS)</span>
 
-![][/pictures/areas.png]
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/areas.png)
 
 <span style="color: green;"> РАБОТОДАТЕЛИ (EMPLOYERS)</span>
 
-![][/pictures/employers.png]
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/employers.png)
 
 <span style="color: green;"> ОТРАСЛИ (INDUSTRIES)</span>
 
-![][/pictures/industries.png]
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/industries.png)
 
 <span style="color: green;"> СФЕРЫ ДЕЯТЕЛЬНОСТИ РАБОТОДАТЕЛЕЙ (EMPLOYERS INDUSTRIES)</span>
 
-![][/pictures/employers_industries.png]
+![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/employers_industries.png)
 
 В данной базе находится 49197 вакансий от 23501 работодателей в 1362 регионах в 294 сферях деятельности.
-:arrow_up:[ к оглавлению](_) 
+:arrow_up:[к оглавлению](_) 
 
 
 ### <span style="color: salmon;"> Этапы работы над проектом  
@@ -102,7 +105,7 @@
 
 :arrow_up:[ к оглавлению](.README.md#Оглавление)
 
-### <span style="color: salmon;"> Результат
+### Результат
 Цеть проекта постигнута - произведен предметный анализ данных  
 
-:arrow_up:[ к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](.README.md#Оглавление)
