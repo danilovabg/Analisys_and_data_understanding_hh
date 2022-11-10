@@ -32,31 +32,32 @@
 
 <center>**Общий вид базы** </center>
     
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/SQL_pj2_2_1.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/master/pictures/SQL_pj2_2_1.png)
 
 <center>  **Отдельные таблицы** </center>
     
 <span style="color: green;">ВАКАНСИИ (VACANCIES)</span>
 
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/vacancies.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/master/pictures/vacancies.png)
 
 <span style="color: green;"> РЕГИОНЫ (AREAS)</span>
 
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/areas.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/pictures/areas.png)
 
 <span style="color: green;"> РАБОТОДАТЕЛИ (EMPLOYERS)</span>
 
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/employers.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/pictures/employers.png)
 
 <span style="color: green;"> ОТРАСЛИ (INDUSTRIES)</span>
 
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/industries.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/master/pictures/industries.png)
 
 <span style="color: green;"> СФЕРЫ ДЕЯТЕЛЬНОСТИ РАБОТОДАТЕЛЕЙ (EMPLOYERS INDUSTRIES)</span>
 
-![](https://raw.githubusercontent.com/danilovabg/Analysis-of-vacancies-from-HeadHunter/master/pictures/employers_industries.png)
+![](https://raw.githubusercontent.com/danilovabg/Analisys_and_data_understanding_hh/master/pictures/employers_industries.png)
 
 В данной базе находится 49197 вакансий от 23501 работодателей в 1362 регионах в 294 сферях деятельности.
+
 :arrow_up:[к оглавлению](_) 
 
 
@@ -103,7 +104,7 @@
 
 <span style="color:orange">с опытом больше 3 лет уже 243 тыс. руб.</span>
 
-:arrow_up:[ к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 ### Результат
 Цеть проекта постигнута - произведен предметный анализ данных  
